@@ -1,0 +1,4 @@
+com\zk\prop\RedisProperties.class
+com\zk\config\RedisAutoConfiguration.class
+com\zk\api\com\zk\api\impl\RedisSimpleAdapter.class
+com\zk\api\RedisAdapter.class
